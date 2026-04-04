@@ -1,13 +1,13 @@
 #include <stdio.h>
 
-typedef double (*op)(int, double);
+typedef double (*op_t)(int, double);
 
 double multiply(int n, double d)
 {
   return n*d;
 }
 
-op get_op()
+op_t get_op()
 {
   return &multiply;
 }
