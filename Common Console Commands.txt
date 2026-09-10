@@ -6,3 +6,4 @@ gcc -Wall *.c -o prog.o && ./prog.o
 gcc -c *.c
 gcc -std=c2x -Wall x.c -lm -o x.o && ./x.o
 gcc -Wall *.c -E
+gcc -Wall *.c -DTEST=Y -o prog.o && ./prog.o
