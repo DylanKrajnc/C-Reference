@@ -12,6 +12,6 @@ This repository contains files created from my following of the course 'Masterin
 ✅ Section 7:  Strings  
 ✅ Section 8:  Useful Standard Functions  
 🔧 Section 9:  File Handling  
-🔧 Section 10: Bitwise Operators  
-🔧 Section 11: The Preprocessor and Macros  
+✅ Section 10: Bitwise Operators  
+✅ Section 11: The Preprocessor and Macros  
 🔧 Section 12: Error Handling  

@@ -1,0 +1,1 @@
+#define SUM_PRINT(x, y) int n=x+y; printf("%d + %d = %d\n", x, y, n);
